@@ -1,3 +1,6 @@
 [2019-04-07 01:44:46.657] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3000
 [2019-04-07 01:44:46.671] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3000
 [2019-04-07 01:44:47.174] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3000
+[2019-04-07 02:21:15.809] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3000
+[2019-04-07 02:21:15.823] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3000
+[2019-04-07 02:21:16.327] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3000

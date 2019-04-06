@@ -5,8 +5,9 @@ var bodyParser = require('body-parser');
 var router = express.Router();
 var errorHandler = require('errorhandler');
 
-app.use(methodOverride);
-app.use(bodyParser);
+app.use(methodOverride());
+app.use(bodyParser.urlencoded());
+app.use(bodyParser.json());
 app.use(router);
 app.set('view engine', 'jade');
 app.set('views', __dirname + '/public');
